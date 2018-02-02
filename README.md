@@ -6,6 +6,8 @@ Deployment steps:
         - to install the external library and plugins
 2. run "gulp"
         - minification and merge the source files.
+        
+3. rename "index_gulp.html" to "index.html"
 
 
 Alternatively you can access: http://35.198.196.236/assignment/ to see the demo, which hosted the production code.
