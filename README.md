@@ -17,6 +17,7 @@ Besides the requirement in the list, there are some additional features:
 1. "Reset" button to reset current bar to the initial value.
 2. "Refresh" button to fetch a new dataset from API.
 3. "Export" button to export the DIV as figure.
+4.  Select Bar by just clicking on the bars, good for mobile users.
 
 Below libraries were used to build this demo:
 
