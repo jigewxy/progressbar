@@ -1,0 +1,50 @@
+#progressBarContainer{
+
+    height: 20vmax;
+    min-height: 200px;
+}
+
+#mainContainer{
+
+    border: 2px;
+    box-shadow: 0px 20px 10px grey;
+
+}
+
+.progress{
+    height: 30px;
+    background-color: #bac6dc;
+    margin-bottom: 20px;
+}
+
+.progress:hover{
+
+    cursor: pointer;
+
+}
+
+.row{
+
+ margin: 10px;
+
+}
+
+.btn-group{
+
+  margin-bottom: 10px;
+
+}
+
+.btn{
+
+    width: 80px;
+    margin: 5px;
+    border-radius: 8pt;
+
+}
+
+#btnSaveImg{
+
+    float:right;
+
+}
